@@ -1,1 +1,1 @@
-This respotory provides a file of code to add Adventurers to your website!
+This respotory provides a file of code to add Adventurers demo edition to your website!
